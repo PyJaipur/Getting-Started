@@ -10,20 +10,11 @@ In the interest of fostering an open and welcoming environment, we as contributo
 
 **_Examples of behavior that contributes to creating a positive environment include:_**
 
-Using welcoming and inclusive language
-Being respectful of differing viewpoints and experiences
-Gracefully accepting constructive criticism
-Focusing on what is best for the community
-Showing empathy towards other community members
+Using welcoming and inclusive language, Being respectful of differing viewpoints and experiences, Gracefully accepting constructive criticism, Focusing on what is best for the community, Showing empathy towards other community members.
 
 **_Examples of unacceptable behavior by participants include:_**
 
-The use of sexualized language or imagery and unwelcome sexual attention or advances
-Trolling, insulting/derogatory comments, and personal or political attacks
-Public or private harassment
-Publishing others' private information, such as a physical or electronic address, without explicit permission
-Other conduct which could reasonably be considered inappropriate in a professional setting
-Our Responsibilities
+The use of sexualized language or imagery and unwelcome sexual attention or advances, Trolling, insulting/derogatory comments, and personal or political attacks, Public or private harassment, Publishing others' private information, such as a physical or electronic address, without explicit permission, Other conduct which could reasonably be considered inappropriate in a professional setting,Our Responsibilities.
 
 Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
@@ -38,3 +29,5 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction within the PyJaipur group, ways to report the incident and get support are listed below. Please note the Procedure for Handling violations.
 
 _Contact_
+
+
