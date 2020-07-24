@@ -1,3 +1,5 @@
+  This work has been moved to https://github.com/PyJaipur/PyJaipur/
+
 ## Getting Started
 ## Python Tutorials and Courses list
 ### A.  Basic Python 
